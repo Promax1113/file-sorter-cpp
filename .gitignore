@@ -2,4 +2,5 @@
 /cmake-build*
 *.exe
 *.o
-
+/build
+.DS_Store
